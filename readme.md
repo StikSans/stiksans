@@ -1,5 +1,9 @@
 <h1 align="left">🖐 Hello! I'm Roman</h1>
 
+<p align="center">
+  <img src="./1738250590190425307.webp" width="300">
+</p>
+
 <p align="left">☄️ I'm a Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197408.png" width="13" alt='Russia'> Izhevsk, Russia </p>
 
 <p>
