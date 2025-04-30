@@ -1,14 +1,12 @@
 <h1 align="left">🖐 Hello! I'm Roman</h1>
 
-<p align="center">
-  <img src="./1738250590190425307.webp" width="300">
-</p>
-
-<p align="left">☄️ I'm a Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197408.png" width="13" alt='Russia'> Izhevsk, Russia </p>
-
-<p>
-  I develop software primarily using <b>TypeScript</b> with <b>React</b>, <b>NestJS</b>, and <b>Docker/Kubernetes</b>
-</p>
+<div align="left" style="display: flex; align-items: center; gap: 20px;">
+  <img src="./1738250590190425307.webp" width="150" style="border-radius: 5px;">
+  <div>
+    <p>☄️ I'm a Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197408.png" width="13" alt='Russia'> Izhevsk, Russia </p>
+    <p>I develop software primarily using <b>TypeScript</b> with <b>React</b>, <b>NestJS</b>, and <b>Docker/Kubernetes</b></p>
+  </div>
+</div>
 
 <h2 align="left">🔥 Tech stack</h2>
 
